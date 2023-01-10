@@ -1,0 +1,94 @@
+<html> 
+    <title>
+        логіка а4+ фільм Один Дома1
+    </title>
+    <body>
+        <header> 
+            <h1 style="font-size:50px;color:white;background-color:black; text-align:center ">це все ще в альфа версії тому можть бути баги або щось недороблене<br/>
+     </h1>
+            <h1 style="font-size:50px;color:white;background-color:black; text-align:center ">бажаю приємного та смішного перегляду<br/>
+        <img src="https://media.posterlounge.com/img/products/680000/672672/672672_poster_l.jpg" height="350"/>
+     </h1>
+                  <h1 style="font-size:50px;color:white;background-color:black; text-align:top in the middle ">логіка а4 (відео)(не це відео що на картинці)створено на основі мему!!!<br/>
+        <img src="https://i.ytimg.com/vi/DH-LzXQR0WA/maxresdefault.jpg" height="450"/>
+     </h1>
+</header>
+<main>
+</main>
+<footer>
+          <a href="https://www.youtube.com/watch?v=WKOZ0J0PufA">
+         <font color="blue">\/1 переходь за посиланням і дивись відео яке я приготовив для вас! </font> 
+    </a>
+     <a href="https://www.youtube.com/watch?v=iXQpStWQVTI">
+     <font color="blue">\/2  а вот і ще відео а4 (без мемів) подивись якщо хочеш!
+     </font>
+     </a>
+        <a href="https://www.youtube.com/watch?v=iXQpStWQVTI">
+        <font color="blue"> \/3  відео де граблять а4
+        </font>
+    </a>
+    <h1 style="font-size:45px;color:white;background-color:green ; text-align:center ">і ще хочу привітати з Новим 2023 Роком!!!<br/>
+        <img src="https://cdn.pixabay.com/photo/2022/05/01/16/22/the-calendar-7167935_960_720.png" height="450"
+     </h1>
+      </footer>  
+ </body>
+    <h1 style="font-size:50px;color:white;background-color:black; text-align:center ">це все було створене щоб посміятись ( це мем можна сказати) та ні в якому разі не в обіду комусь<br/>
+        <img src="https://mig.com.ua/wp-content/uploads/2020/06/foto-7.jpg" height="150"/>
+     </h1>
+     <a href="https://www.youtube.com/@MrBeast ">
+        <font color="blue"> \/1 тут посилання на мого одного з улюблених блогерів!!! (MrBeast)
+        </font>
+    </a>
+    <a href="https://www.youtube.com/@MrMaxLife">
+        <font color="blue">\/2 тут посилання на мого друого з улюблених блогерів!!! (MrMax)
+        </font>
+    </a>
+    <a href="https://www.youtube.com/@MrMaxLife/channels?view=49&shelf_id=3">
+        <font color="blue">\/3 тут посилання на мого третього з улюблених блогерів!!! (MrMax) (інші канали )
+        </font>
+    </a>
+    <h2 id="photo">фотографії</h2>
+    <img src="https://www.tubebuddy.com/wp-content/uploads/2020/02/MrBeast-1568x877.png" height="200px" width="300px"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREgApnYi4lTdJphpkxB6_I_I8WhD76aW7awg&usqp=CAU" height="200px"  width="200px"/>
+<img src="http://i.otzovik.com/objects/b/630000/628973.png" height="200px"  width="200px"/>
+<img src="https://yt3.ggpht.com/ytc/AMLnZu_8iXnU508-sFYGmF8wUS8VPVXLSwyE7XnYtbzrVg=s900-c-k-c0x00ffffff-no-rj" height="200px"  width="200px"/> 
+<img src="https://img.tsn.ua/cached/119/tsn-09295eed4a70c304db39297c76a49605/thumbs/428x268/e6/fb/ae8afea9b3314a3515fd0fb43234fbe6.jpg" height="200px"  width="250px"/> 
+<img src="https://lenta.ua/storage/27/05/26/19/890_450_6389ed9802262.jpg" height="200px"  width="300px"/> 
+</html>
+<form method="get" action="https://www.youtube.com/watch?v=pQ5ZN3zUi2U">
+    <button type="submit">посилання</button></form>
+    <div class="full_content-inner full_inner">
+<div class="subtitle"><strong>Дивитися Сам удома / Один удома онлайн українською в HD</strong></div>
+<div class="tabs_box" id="tabs_box">
+<div class="tabs_sel">
+<span class="tabs_link current">+Онлайн</span>
+<span class="tabs_link-tr">Трейлер</span>
+</div>
+<div class="video_box tabs_b visible">
+
+<iframe width="100%" height="400" src="https://tortuga.wtf/vod/5775" frameborder="0" allow="encrypted-media" allowfullscreen=""></iframe>
+
+</div>
+<div class="video_box tabs_b" id="trailer_place">
+
+<iframe src="https://tortuga.wtf/vod/5774" width="100%" height="400" frameborder="0" allowfullscreen=""></iframe>
+
+</div>
+</div>
+<div class="full_subcontent fx_row">
+<div class="fshare">
+<span class="fab fa-facebook-f" data-id="fb"></span>
+<span class="fab fa-twitter" data-id="tw"></span>
+<span class="fas fa-paper-plane" data-id="tlg"></span>
+</div>
+<div class="widget-btn-container" title="Telegram @eneyida" onclick="window.open('https://t.me/eneyida')"><span class="fa fa-paper-plane"></span> </div>
+<div class="complaint_btn guest_registration">
+
+</div>
+</div>
+</div>
+<div class="subtitle"><strong>Дивитися Сам удома 2 / Один удома 2 онлайн українською </strong></div>
+<div id="ashdi" class="player_div"><iframe allow="autoplay" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen="" frameborder="0" src="https://ashdi.vip/vod/244?geoblock=ru&amp;gfuret7" style="width: 700px; height: 480px;"></iframe></div>
+<h1 style="font-size:50px;color:white;background-color:black; text-align:center ">дякую за перегляд!<br/>
+        <img src="https://st3.depositphotos.com/5391360/15122/v/450/depositphotos_151229054-stock-illustration-hand-sketched-goodbye-lettering.jpg" height="450"/>
+     </h1>  
